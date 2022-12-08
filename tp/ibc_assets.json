@@ -1,0 +1,56 @@
+{
+  "tokens": [
+    {
+      "id": "cosmos",
+      "name": "Atom",
+      "symbol": "ATOM",
+      "chain_id": "cosmoshub-4",
+      "rpc": "https://rpc.cosmoshub.strange.love",
+      "denom": "uatom",
+      "decimals": 6,
+      "channel": "channel-434",
+      "mun_channel": "channel-7",
+      "mun_denom": "ibc/25418646C017D377ADF3202FF1E43590D0DAE3346E594E8D78176A139A928F88",
+      "logoURI": "https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=014"
+    },
+    {
+      "id": "juno",
+      "name": "Juno",
+      "symbol": "JUNO",
+      "chain_id": "juno-1",
+      "rpc": "https://juno-rpc.polkachu.com",
+      "denom": "ujuno",
+      "decimals": 6,
+      "channel": "channel-162",
+      "mun_channel": "channel-8",
+      "mun_denom": "ibc/DF8D00B4B31B55AFCA9BAF192BC36C67AA06D9987DCB96490661BCAB63C27006",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg"
+    },
+    {
+      "id": "kava",
+      "name": "Kava",
+      "symbol": "KAVA",
+      "chain_id": "kava_2222-10",
+      "rpc": "https://rpc.cosmos.directory/kava",
+      "denom": "ukava",
+      "decimals": 6,
+      "channel": "channel-80",
+      "mun_channel": "channel-10",
+      "mun_denom": "ibc/CAFC1ED3F97B20A60D2D0747B15D89A5E6B670AD7B8A8666F17FAD12A5A4A019",
+      "logoURI": "https://github.com/cosmos/chain-registry/blob/master/kava/images/kava.png?raw=true"
+    },
+    {
+      "id": "usdx",
+      "name": "USDX",
+      "symbol": "USDX",
+      "chain_id": "kava_2222-10",
+      "rpc": "https://rpc.cosmos.directory/kava",
+      "denom": "usdx",
+      "decimals": 6,
+      "channel": "channel-80",
+      "mun_channel": "channel-10",
+      "mun_denom": "ibc/C763F8468EFA224C9D4D605C8E1D86480A212828CAF743FAAFF72A851AD4D59D",
+      "logoURI": "https://github.com/cosmos/chain-registry/blob/master/kava/images/usdx.png?raw=true"
+    }
+  ]
+}
